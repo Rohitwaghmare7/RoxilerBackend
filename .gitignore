@@ -54,3 +54,4 @@ coverage/
 
 # AWS SAM files (if using AWS serverless applications)
 .sam/
+.vercel
