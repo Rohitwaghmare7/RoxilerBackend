@@ -29,12 +29,11 @@ Website Link: https://jade-brioche-5f88cc.netlify.app/
 
 ## Implementation
 
-
 **Dashboard**
+![image](https://github.com/user-attachments/assets/48e011a5-80b7-4c75-8922-41e6f6fae7c9)
 
 **Bar Graph**
-
-
+![image](https://github.com/user-attachments/assets/1789adb7-045d-408c-ac09-0d6da7517180)
 
 
 
